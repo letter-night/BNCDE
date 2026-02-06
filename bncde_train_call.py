@@ -18,5 +18,6 @@ for i, hyperparams in enumerate(hyperparam_combinations):
                 device='cuda',
                 accelerator='cuda',
 
-                num_workers=127)
+                num_workers=0)
+
 
