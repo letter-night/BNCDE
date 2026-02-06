@@ -17,7 +17,7 @@ hidden_size: 8
 
 mc_samples: 10
 
-prediction_window: 1
+prediction_window: 2
 
 method: 'euler'
 
@@ -34,5 +34,6 @@ batch_size: 64
 max_epochs: 100
 
 patience: 10
+
 
 ...
