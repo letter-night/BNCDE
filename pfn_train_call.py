@@ -18,4 +18,5 @@ for i, hyperparams in enumerate(hyperparam_combinations):
 		   load_pickle=False,
 		   device='cuda',
 		   accelerator='cuda',
-		   num_workers=11)
+
+		   num_workers=0)
