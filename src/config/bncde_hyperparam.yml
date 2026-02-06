@@ -17,7 +17,7 @@ hidden_size: 8
 
 mc_samples: 10
 
-prediction_window: 2
+prediction_window: 1
 
 method: 'euler'
 
@@ -37,4 +37,5 @@ patience: 10
 
 
 ...
+
 
