@@ -31,9 +31,10 @@ clip_grad: 0.0
 
 batch_size: 64
 
-max_epochs: 100
+max_epochs: 500
 
 patience: 10
 
 
 ...
+
