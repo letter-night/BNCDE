@@ -12,7 +12,7 @@ d_ff: 512
 
 embed_dim: 64
 
-gmm_n_components: 5
+gmm_n_components: 10
 
 coverage_metric_confidence: 0.95 
  
@@ -51,6 +51,7 @@ patch_size: 2
 gmm_min_sigma: 1e-3
 
 gmm_pi_temp: 1.0 
+
 
 
 
